@@ -1,2 +1,2 @@
 googletrans==2.3.0
-csv==1.0
+

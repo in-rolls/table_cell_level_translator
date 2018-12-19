@@ -1,2 +1,0 @@
-googletrans==2.3.0
-
